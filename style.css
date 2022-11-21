@@ -23,7 +23,7 @@ body {
   text-align: center;
   background-color: rgb(21, 60, 139);
   color: white;
-  width: 230px;
+  width: 290px;
   height: 577px;  
   padding-top: 40px;
   margin: 0;
@@ -56,7 +56,7 @@ body {
   padding: 0 0 0 0;
 }
 .box-2 .img {
-  width: 980px;
+  width: 945px;
   height: 250px;
 }
 .box-2 h1 {
